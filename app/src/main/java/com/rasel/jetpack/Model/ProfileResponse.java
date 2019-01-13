@@ -1,6 +1,6 @@
 package com.rasel.jetpack.Model;
 
-public class profileResponse {
+public class ProfileResponse {
 
     private String u_name;
     private String u_email;

@@ -13,10 +13,10 @@
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
         <activity android:name=".Activity.JoyBangla"></activity>
-        <activity android:name=".Activity.PagingActivity">
-
-        </activity>
+        <activity android:name=".Activity.PagingActivity"></activity>
         <activity android:name=".Activity.Profile">
+        </activity>
+        <activity android:name=".Activity.Main_WorkManager">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
